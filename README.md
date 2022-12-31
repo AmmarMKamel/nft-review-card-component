@@ -21,8 +21,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/qr-code-component)
-- Live Site URL: [NFT Review Card](https://ammarmkamel.github.io/qr-code-component/)
+- Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/nft-review-card-component)
+- Live Site URL: [NFT Review Card](https://ammarmkamel.github.io/nft-review-card-component/)
 
 ## Built with
 
