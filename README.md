@@ -8,6 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -30,6 +31,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+## Useful resources
+
+- [Image Overlay](https://stackoverflow.com/questions/21086385/how-to-make-in-css-an-overlay-over-an-image) - This stackoverflow question helped me make the overlay effect when hovering over the image.
 
 ## Author
 
